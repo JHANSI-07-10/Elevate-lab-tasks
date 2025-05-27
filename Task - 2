@@ -1,0 +1,44 @@
+# 📊 Superstore Sales Dashboard – Power BI
+
+This project is part of my **Data Analyst Internship (Task 2)** at **Elevate Labs**. I worked with the **Superstore Sales Dataset** and built an interactive Power BI dashboard to uncover key business insights and visualize sales performance.
+
+## 🚀 Project Overview
+
+The dashboard enables stakeholders to explore and understand sales, profit, and quantity trends across various dimensions such as products, customers, and categories.
+
+## 📂 Dataset
+
+The dataset used is the **Superstore Sales Dataset**, which includes information on:
+
+- Orders (Dates, Quantity, Discount, Profit, Sales)
+- Customers and Regions
+- Product Categories and Sub-Categories
+- Shipping and Segment data
+
+## 🛠️ Tools & Technologies
+
+- **Power BI** – for building the interactive dashboard
+- **Microsoft Excel / CSV** – for initial data handling
+- **Power Query Editor** – for data transformation within Power BI
+
+## 📊 Dashboard Visualizations
+
+The Power BI dashboard includes the following key visualizations:
+
+- **Bar Chart** – Sales by Product Name  
+- **Area Chart** – Quantity Ordered by Customer  
+- **Donut Charts** –  
+  - Total Quantity by Country  
+  - Total Sales by Country  
+- **Line Chart** – Sales Trend by Category  
+- **Scatter Plot** – Profit per Product
+
+These visuals help identify high-performing products, customer buying patterns, category trends, and profit distribution.
+
+## 🔍 Key Insights
+
+- Top products generate a significant portion of total sales.
+- Quantity varies widely across customer base, indicating segmented buying behavior.
+- Some countries contribute more to sales/quantity than others.
+- Line chart reveals seasonal or category-based sales trends.
+- Scatter plot highlights which products are profitable and which might be underperforming.
